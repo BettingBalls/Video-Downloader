@@ -1,7 +1,6 @@
-🌸 Ruby Downloader 🌸
 Python Video & Audio Downloader
 
-Ruby Downloader adalah aplikasi berbasis Python untuk mengunduh video atau audio
+Youtube_downloader adalah aplikasi berbasis Python untuk mengunduh video atau audio
 dari YouTube, Instagram, dan TikTok dengan tampilan GUI sederhana.
 
 --------------------------------------------------
@@ -30,7 +29,7 @@ CARA MENJALANKAN
 1. Buka folder tempat file Python ini berada.
 2. Jalankan lewat Command Prompt / Terminal:
 
-   python ruby_downloader.py
+   python youtube_downloader.py
 
 3. Aplikasi GUI akan terbuka.
 
